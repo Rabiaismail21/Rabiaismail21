@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 👋 Hi there! I'm Rabia Ismail</h1>
+<h1 align="center"> 👋 Hi there! I'm Rabia Ismail</h1>
 <h3 align="center">Zealous Frontend developer with a knack for creating captivating user experiences. 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiaismail21&label=Profile%20views&color=0e75b6&style=flat" alt="rabiaismail21" /> </p>
