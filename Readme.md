@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiaismail21&label=Profile%20views&color=0e75b6&style=flat" alt="rabiaismail21" /> </p>
 
-- 🔭 I’m currently working on **Resturant Landign Page**
+- 🔭 I’m currently working on **Resturant Landing Page**
 
 - 🌱 I’m currently learning **Javascript DSA**
 
